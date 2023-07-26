@@ -249,15 +249,11 @@ $
 
 ## AUTHORS
 
-### 🤵🏼 Olaoluwa ISOGUN
+### 🤵🏼 ICHRAK TAHIR
 
 - [GitHub](https://github.com/ichraq0206)
 
 ### 🤵🏻‍ khachachi mohammed
 
 <a href="https://www.linkedin.com/in/mohammed-khachachi/"><img align="left" src="https://raw.githubusercontent.com/mohammed_khachachi/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="40px"/></a>
-<a href="https://m.facebook.com/tosintokunbo.isogun/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/facebook.svg" alt="Tosin ISOGUN | Facebook" width="40px"/></a>
-<a href="https://wa.link/nxtuti/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/whatsapp2.png" alt="Tosin ISOGUN | WhatsApp" width="40px"/></a>
-<a href="https://www.instagram.com/oluwatomisinisogun/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/instagram.svg" alt="Tosin ISOGUN | Instagram" width="40px"/></a>
-<a href="https://mobile.twitter.com/tomson172/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/twitter.svg" alt="Tosin ISOGUN | Twitter" width="40px"/></a>
 
