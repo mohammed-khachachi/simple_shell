@@ -255,5 +255,7 @@ $
 
 ### 🤵🏻‍ khachachi mohammed
 
-<a href="https://www.linkedin.com/in/mohammed-khachachi/">
+- [GitHub](https://github.com/mohammed-khachachi)
+
+- [linkedin](https://www.linkedin.com/in/mohammed-khachachi/)
 
