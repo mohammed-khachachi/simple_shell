@@ -255,5 +255,5 @@ $
 
 ### 🤵🏻‍ khachachi mohammed
 
-<a href="https://www.linkedin.com/in/mohammed-khachachi/"><img align="left" src="https://raw.githubusercontent.com/mohammed_khachachi/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="40px"/></a>
+<a href="https://www.linkedin.com/in/mohammed-khachachi/">
 
